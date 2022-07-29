@@ -1,5 +1,6 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=你+好+呀+;Hi+there)](https://git.io/typing-svg)
+### 哈喽！
+### Hi there 👋💬💬💬💬💬💬💬💬💬💬
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=你+好+呀+;Hi+there)](https://git.io/typing-svg) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKA-LinCoder)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKA-LinCoder&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
